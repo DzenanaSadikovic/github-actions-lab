@@ -1,7 +1,8 @@
 # github-actions-lab
 Ovaj projekat koristi GitHub Actions.
 
-| Run | Bez kesa | Sa kesom | Usteda |
-| Run1 | 19 | 15 | - |
-| Run2 | 22 | 17 | - |
-| Run3 | 16 | 16 | - |
+| Run | Bez kesa (s) | Sa kesom (s) | Usteda (%) |
+| :--- | :---: | :---: | :---: |
+| **Run 1** | 19 | 15 | - |
+| **Run 2** | 22 | 17 | - |
+| **Run 3** | 16 | 16 | - |
