@@ -1,0 +1,19 @@
+{
+  "name": "github-actions-lab",
+  "version": "1.0.0",
+  "description": "Ovaj projekat koristi GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest",
+  "lint": "eslint src/**"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.39.4",
+    "eslint": "^9.39.4",
+    "globals": "^17.6.0",
+    "jest": "^30.4.2"
+  }
+}
